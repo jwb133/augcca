@@ -1,0 +1,13 @@
+v 3
+d augcca  Augmented complete case analysis for partially observed covariates
+d Jonathan Bartlett, London School of Hygiene & Tropical Medicine.
+d jonathan.bartlett1@lshtm.ac.uk
+d https://thestatsgeek.com/
+d
+d Distribution-Date: 20230421
+
+* I can also insert comments; these will not be displayed.
+* f lines name the files that comprise your package:
+
+f augcca.ado
+f augcca.sthlp
