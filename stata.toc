@@ -1,0 +1,4 @@
+v 3
+d Stata package augcca
+
+p augcca Augmented complete case analysis for partially observed covariates
